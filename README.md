@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M.Saad Mughal
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning PH language
+- 🌱 I’m currently learning PHP language
 - 💞️ I’m looking to collaborate on website based projects
 - 📫 How to reach me sp19bsse0082@maju.edu.pk
